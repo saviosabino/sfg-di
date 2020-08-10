@@ -19,5 +19,4 @@ class ConstructorInjectedControllerTest {
         System.out.println(controller.getGreeting());
 
     }
-
 }
