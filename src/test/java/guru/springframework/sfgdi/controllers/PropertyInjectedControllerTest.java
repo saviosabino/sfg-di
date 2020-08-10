@@ -20,4 +20,5 @@ class PropertyInjectedControllerTest {
 
         System.out.println(controller.getGreeting());
     }
+
 }
